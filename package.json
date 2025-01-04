@@ -14,7 +14,7 @@
     "framer-motion": "^11.1.9",
     "limiter": "^2.1.0",
     "mongodb": "^6.5.0",
-    "next": "^14.2.3",
+    "next": "^14.2.21",
     "next-themes": "^0.2.1",
     "prettier": "^3.2.5",
     "prettier-plugin-tailwindcss": "^0.5.11",
